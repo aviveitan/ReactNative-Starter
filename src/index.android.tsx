@@ -14,7 +14,7 @@ export default class App extends Component<Props, State> {
         return (
             <View style={styles.container}>
                 <Text style={styles.welcome}>
-                    Welcome to React Native Aviv!
+                    Welcome to React Native Aviv Eitan!
                 </Text>
                 <Text style={styles.instructions}>
                     To get started, edit index.android.js
